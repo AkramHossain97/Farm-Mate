@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622348336643",
+    "firebase_url": "https://smart-poultry-management-default-rtdb.firebaseio.com",
+    "project_id": "smart-poultry-management",
+    "storage_bucket": "smart-poultry-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622348336643:android:8b5ff591f841c8cce91836",
+        "android_client_info": {
+          "package_name": "com.example.farm_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622348336643-9csmpnh9t115d38ehklfj14c69ojg1tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGw5TaQXf-I9Z8EnWK2XZy5Vpm0_spiag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622348336643-9csmpnh9t115d38ehklfj14c69ojg1tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
